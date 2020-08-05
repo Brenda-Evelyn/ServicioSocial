@@ -12,3 +12,4 @@ Si quieres ejecutar un script en tu equipo:
 
 En la carpeta "HONGOS" se encuentra el programa "HONGOS.ipynb", del cual hice el reporte escrito.
 Así como también, hay otras versiones previas de modelos de perceptrón para analizar los hongos.
+La base de imágenes de hongos se encuentra en "Datasets/Protocolo IA"
