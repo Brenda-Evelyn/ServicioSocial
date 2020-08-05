@@ -1,4 +1,4 @@
-# ServicioSocial
+# Servicio Social
 Programas en Python de lo que hice durante el servicio social
 
 Aquí se pueden consultar los scripts que realicé durante los cursos que tomé en el servicio.
